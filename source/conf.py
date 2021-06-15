@@ -20,8 +20,8 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Tapis'
-copyright = '2020, Texas Advanced Computing Center, University of Texas, Austin'
+project = 'SCINCO'
+copyright = '2021, Texas Advanced Computing Center, University of Texas, Austin'
 author = 'Cloud and Interactive Computing'
 
 # The short X.Y version
