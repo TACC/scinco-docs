@@ -40,7 +40,8 @@ Welcome to Scinco's Documentation!
    :caption: Administration
 
    admin/index
-   admin/users
+   admin/usergroups
    admin/images
    admin/mounts
+   admin/hubadmin
 
