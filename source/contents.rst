@@ -15,9 +15,7 @@ Welcome to Scinco's Documentation!
    :caption: Quick Start
 
    quickstart/index
-   quickstart/account
-   quickstart/server
-   quickstart/notebook
+   
 
 
 .. toctree::
