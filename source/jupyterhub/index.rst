@@ -1,5 +1,7 @@
-==========
-JupyterHub
-==========
+======================
+Login to JupyterHub
+======================
 
-SCINCO JupyterHubs allow users to launch a server with custom images.
+Users can login to Scinco JupyterHub using their TACC credentials. Once login is successful, users can spawn their notebook servers.
+
+.. image:: images/jupyter_login.png
