@@ -2,15 +2,6 @@
 Quick Start Guide
 =================
 
-Depending on the scientific use-case evalulate if a separate instance of JupyterHub is needed for your project. You may follow the steps below:
-
- * 1. Email to cicsupport@tacc.utexas.edu with a breif description of your use-case and request for a meeting with our staff.
- * 2. During the meeting, explain your use-case and mention the memory and CPU requirements for running your scientific workloads.
- * 3. Mention any specific packages that should be loaded in the JupyterHub for running your experiments.
- * 4. Evaluate whether your workflow can be containerized.
- * 5. Our staff will assist and guide you based on your project needs.
-
-
 To accesss JupyterHub_ hosted at TACC, you will need to perform following steps:
 
 .. _JupyterHub: https://jupyter.tacc.cloud
@@ -26,6 +17,16 @@ To accesss JupyterHub_ hosted at TACC, you will need to perform following steps:
 
 
 .. _TUP: https://portal.tacc.utexas.edu/account-request 
+
+
+
+Depending on your scientific use-case, evalulate if a separate instance of JupyterHub is needed for your project. You may follow the steps below:
+
+ * Email to cicsupport@tacc.utexas.edu with a breif description of your use-case and request for a meeting with our staff.
+ * During the meeting, explain your use-case and mention the memory and CPU requirements for running experiments.
+ * Mention any specific packages that should be loaded in the JupyterHub for running your experiments.
+ * Evaluate whether your workflow can be containerized into a docker image.
+
 
 
 
