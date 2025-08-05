@@ -25,7 +25,7 @@ Welcome to Scinco's Documentation!
    jupyterhub/index
    jupyterhub/images
    jupyterhub/notebook
-  
+
 .. toctree::
    :maxdepth: 2
    :caption: User Images
